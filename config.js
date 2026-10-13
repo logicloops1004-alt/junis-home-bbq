@@ -18,4 +18,12 @@ window.SITE = {
     { name: "Americano", price: 15000, desc: "Hot / iced", cat: "Kopi", img: "" },
     { name: "Roti Bakar Coklat Keju", price: 17000, desc: "Hangat, renyah", cat: "Makanan", img: "" }
   ]
+  unit: "box",
+minQty: 20,
+fields: [
+  { id: "nama", label: "Nama", type: "text" },
+  { id: "tanggal", label: "Tanggal kirim", type: "date" },
+  { id: "jam", label: "Jam kirim", type: "time" },
+  { id: "alamat", label: "Alamat pengiriman", type: "text" }
+]
 };
