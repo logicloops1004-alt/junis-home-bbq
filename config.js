@@ -1,11 +1,11 @@
 window.SITE = {
-  name: "Kopi Senja Dago",
-  tagline: "Kopi lokal, suasana hangat. Pesan lewat WhatsApp.",
-  wa: "6281234567890",              // format 62..., no + and no spaces. Demo: your number, not the owner's.
-  address: "Jl. Ir. H. Juanda No. 10, Bandung",
-  mapsUrl: "https://maps.google.com/?q=Kopi+Senja+Dago+Bandung",
-  hours: "Setiap hari 08.00–22.00",
-  instagram: "https://instagram.com/kopisenja",
+  name: "Juni's Home BBQ & Catering",
+  tagline: "Jasa catering BBQ live cooking terpercaya. Pesan lewat WhatsApp.",
+  wa: "62 813-2102-1570",              // format 62..., no + and no spaces. Demo: your number, not the owner's.
+  address: "Cirateun, Jl. Dr. Setiabudi No.KM 10 No. 10, RT.03/RW.07, Ledeng, Cidadap, Bandung City, West Java 40143",
+  mapsUrl: "https://maps.app.goo.gl/wdBheFQurLfWwQmb8",
+  hours: "Setiap hari 09.00–17.00",
+  instagram: "https://www.junishomebbq.com/",
   demo: true,                      // remove at launch
   // cover: "assets/cover.jpg",    // their public product photo, under 150KB
   theme: { primary: "#b45309" },
